@@ -19,9 +19,9 @@ function Login(UserLogin = true) {
 }
 }
 
-function IDENTICACION(DPI = ? ) {
-  if (UserLogin ?  ?) 
-  alert('???')
- else {
-  alert'????')
-}
+// function IDENTICACION(DPI = ? ) {
+//   if (UserLogin ?  ?)
+//   alert('???')
+//  else {
+//   alert'????')
+// }

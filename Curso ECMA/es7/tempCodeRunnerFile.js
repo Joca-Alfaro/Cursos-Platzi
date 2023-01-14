@@ -1,3 +1,4 @@
-const list = ['oscar', 'David', 'Ana']
+let b = 'a';
+let b = 'b';
 
-console.log(list.includes('Juan'));
+console.log(b)
